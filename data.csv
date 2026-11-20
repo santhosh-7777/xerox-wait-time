@@ -1,21 +1,21 @@
 date,arrival_time,leave_time,outcome,job_type,page_count,color_or_bw,quoted_wait_minutes,actual_wait_minutes,queue_length_at_arrival,notes
-2026-11-19,20:43,20:45,left_without_service,spiral_binding,unknown,unknown,unknown,,unknown,Chemistry lab copy. Left without knowing wait time.
+2026-11-19,20:43,20:45,left_without_service,spiral_binding,30,unknown,unknown,,unknown,Chemistry lab copy. Left without knowing wait time.
 2026-11-19,20:47,20:52,completed,lab_report_xerox,unknown,unknown,unknown,5,unknown,Same girl as 20:43. Returned and left with lab report xerox.
-2026-11-20,08:32,08:43,unknown,spiral_binding,unknown,unknown,unknown,11,unknown,Girl 1 of 2 who arrived together. Wanted spiral binding.
-2026-11-20,08:32,08:43,unknown,xerox,unknown,bw,unknown,11,unknown,Girl 2 of 2 who arrived together. Wanted B&W xerox. Outcome not recorded.
-2026-11-20,08:33,08:37,unknown,unknown,unknown,unknown,unknown,4,unknown,One guy.
-2026-11-20,08:34,08:38,unknown,unknown,unknown,unknown,unknown,4,unknown,One of two girls who arrived together at 08:34.
-2026-11-20,08:34,08:38,unknown,unknown,unknown,unknown,unknown,4,unknown,One of two girls who arrived together at 08:34.
+2026-11-20,08:32,08:43,completed,spiral_binding,50,unknown,unknown,11,unknown,Girl 1 of 2 who arrived together. Saw leaving with spiral binding.
+2026-11-20,08:32,08:43,completed,xerox,unknown,bw,unknown,11,unknown,Girl 2 of 2 who arrived together. Saw leaving with B&W xerox.
+2026-11-20,08:33,08:37,completed,unknown,unknown,unknown,unknown,4,unknown,One guy. Saw leaving with completed work.
+2026-11-20,08:34,08:38,completed,unknown,unknown,unknown,unknown,4,unknown,One of two girls who arrived together at 08:34. Saw leaving with work.
+2026-11-20,08:34,08:38,completed,unknown,unknown,unknown,unknown,4,unknown,One of two girls who arrived together at 08:34. Saw leaving with work.
 2026-11-20,unknown,unknown,left_without_service,unknown,unknown,unknown,unknown,,unknown,One of three girls. Left without a reason. Times not recorded.
 2026-11-20,unknown,unknown,turned_away,unknown,unknown,unknown,30,,unknown,One of three girls. Told to come back after 30 minutes. Times not recorded.
-2026-11-20,08:36,09:02,unknown,unknown,unknown,unknown,unknown,26,unknown,One guy who arrived with one girl at 08:36.
-2026-11-20,08:36,09:02,unknown,unknown,unknown,unknown,unknown,26,unknown,One girl who arrived with one guy at 08:36.
+2026-11-20,08:36,09:02,completed,unknown,unknown,unknown,unknown,26,unknown,One guy who arrived with one girl at 08:36. Saw leaving with work.
+2026-11-20,08:36,09:02,completed,unknown,unknown,unknown,unknown,26,unknown,One girl who arrived with one guy at 08:36. Saw leaving with work.
 2026-11-20,08:45,08:50,completed,xerox,unknown,unknown,unknown,5,unknown,One guy. One xerox, work done.
-2026-11-20,08:50,09:10,completed,spiral_binding,unknown,unknown,40,20,unknown,One guy. Told to wait 40 minutes. Got the binding before that time.
+2026-11-20,08:50,09:10,completed,spiral_binding,50,unknown,40,20,unknown,One guy. Told to wait 40 minutes. Got the binding before that time.
 2026-11-20,08:51,08:54,completed,xerox,unknown,unknown,unknown,3,unknown,One girl, separate from the 08:52 pair. Xerox, went fast.
-2026-11-20,08:52,09:02,completed,project_report_binding,unknown,unknown,unknown,10,unknown,One guy of a pair who arrived together. Work done.
-2026-11-20,08:52,09:02,completed,project_report_binding,unknown,unknown,unknown,10,unknown,One girl of a pair who arrived together. Work done.
-2026-11-20,08:59,09:03,unknown,xerox,unknown,bw,unknown,4,unknown,One girl. Came for B&W xerox. Outcome not recorded.
-2026-11-20,09:00,09:03,unknown,unknown,unknown,unknown,unknown,3,unknown,One of three guys who came at 09:00 and left at 09:03 after waiting in line. Outcome not recorded.
-2026-11-20,09:00,09:03,unknown,unknown,unknown,unknown,unknown,3,unknown,One of three guys who came at 09:00 and left at 09:03 after waiting in line. Outcome not recorded.
-2026-11-20,09:00,09:03,unknown,unknown,unknown,unknown,unknown,3,unknown,One of three guys who came at 09:00 and left at 09:03 after waiting in line. Outcome not recorded.
+2026-11-20,08:52,09:02,completed,project_report_binding,unknown,unknown,30,10,unknown,One guy of a pair who arrived together. Quoted 30 min, work done before the quoted time. One quote for the pair.
+2026-11-20,08:52,09:02,completed,project_report_binding,unknown,unknown,30,10,unknown,One girl of a pair who arrived together. Quoted 30 min, work done before the quoted time. One quote for the pair.
+2026-11-20,08:59,09:03,completed,xerox,unknown,bw,unknown,4,unknown,One girl. Came for B&W xerox. Saw leaving with copies.
+2026-11-20,09:00,09:03,completed,unknown,unknown,unknown,unknown,3,unknown,One of three guys who came at 09:00 and left at 09:03. Saw leaving with work.
+2026-11-20,09:00,09:03,completed,unknown,unknown,unknown,unknown,3,unknown,One of three guys who came at 09:00 and left at 09:03. Saw leaving with work.
+2026-11-20,09:00,09:03,completed,unknown,unknown,unknown,unknown,3,unknown,One of three guys who came at 09:00 and left at 09:03. Saw leaving with work.
